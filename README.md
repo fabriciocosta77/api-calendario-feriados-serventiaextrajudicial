@@ -10,7 +10,6 @@ API desenvolvida com **FastAPI** para extrair automaticamente os feriados do cal
 * FastAPI
 * Uvicorn
 * pdfplumber
-* pandas (opcional, dependendo da versão)
 * pydantic-settings
 
 ---
